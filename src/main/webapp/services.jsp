@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Nitin Kumar Prajapati</title>
+<title>Insert title here</title>
 </head>
 <body>
-<a href=about.jsp>About us</a>
-<a href=index.jsp>Index file</a>
-<a href=services.jsp>Services file</a>
+
 </body>
 </html>
