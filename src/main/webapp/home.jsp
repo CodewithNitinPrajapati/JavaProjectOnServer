@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Nitin kumar prajapati</title>
+<title>Nitin Kumar Prajapati</title>
 </head>
 <body>
 <a href=about.jsp>About us</a>
